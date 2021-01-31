@@ -1,0 +1,41 @@
+body{
+	background-color:#e9f2c6;
+	font-family:arial, times, sans-serif;
+	border-width:2px;
+	border-style:double;
+	border-color:#0e0ef0;	
+}
+header{
+	background-color:yellow;
+	background-image:url(" home2.jpg ");
+	text-align:center;
+	color:white;
+	overflow:hidden;
+	padding:30px;
+}
+hgroup h1{
+	line-height:5px;
+	font-size:5em;
+}
+hgroup h2{
+	font-size:1.2em;
+	line-height:15px;
+	color:red;
+}
+nav{
+	float:left;
+	background-color:yellow;
+	background-image:url(" 100% love.jpg ");
+	width:100%;
+}
+nav ul{
+	list-style-type:none;
+}
+nav li{
+	float:left;
+	margin-right:15px;
+	font-size:1.5em;	
+}
+
+
+
